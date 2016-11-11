@@ -1,0 +1,4 @@
+Jubilee^Waterloo^Southwark^London Bridge
+Northern^Oval^Kennington^Elephant & Castle^Borough^London Bridge
+Northern^Kennington^Waterloo^Embankment
+Bakerloo^Elephant & Castle^Lambeth North^Waterloo^Embankment
