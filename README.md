@@ -3,6 +3,7 @@
 Given a path to a text file describing a tube map, as well as the names of an origin station and a destination station,
 returns a list of station names that make up an optimal route from the origin to the destination, given the following
 assumptions:
+
     * it takes 2 minutes to travel between adjacent stations;
     * it takes 4 minutes to interchange at a station to a different tube line;
     * it takes zero time to change between branches of the same tube line.
